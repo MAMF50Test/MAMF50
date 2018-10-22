@@ -7,5 +7,6 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("I have no mouth and I must scream");
 		System.out.println("gaaaaahhhhhhhhh");
+		System.out.println("Jag sa att jag visste hur man använde Terminalen Bruce!")
 	}
 }
